@@ -22,7 +22,7 @@ cover:
 {{< button "下载Suzzane模型" "3d_glow_outline/suzanne.glb" >}}
 
 - #### 项目模板（下载后解压）
-![]({{< resource "/3d_glow_outline/template.gif" >}})
+![]({{< resource "/3d_glow_outline/template.png" >}})
 {{< button "下载项目模板" "/3d_glow_outline/template.zip" >}}
 
 
