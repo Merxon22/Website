@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/zh/tags/%232d/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%232d/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%233d/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%233d/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23dither/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23dither/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23gd-script/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23gd-script/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23hdr%E5%8F%91%E5%85%89/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23hdr%E5%8F%91%E5%85%89/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23resource/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23resource/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23subviewport/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23subviewport/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23ui/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23ui/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23visual-shader/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23visual-shader/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23%E5%AF%BC%E8%88%AA/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23%E5%AF%BC%E8%88%AA/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23%E5%AF%B9%E8%AF%9D/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23%E5%AF%B9%E8%AF%9D/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23%E6%8F%8F%E8%BE%B9/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23%E6%8F%8F%E8%BE%B9/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23%E5%83%8F%E7%B4%A0%E9%A3%8E/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23%E5%83%8F%E7%B4%A0%E9%A3%8E/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23%E5%AF%BB%E8%B7%AF/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23%E5%AF%BB%E8%B7%AF/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/%23%E7%9D%80%E8%89%B2%E5%99%A8/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/%23%E7%9D%80%E8%89%B2%E5%99%A8/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/3d_pixelize/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/3d_pixelize/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/2d_glow_outline/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/2d_glow_outline/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/categories/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/tags/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/visual_shader/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/visual_shader/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/dialogue_system/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/dialogue_system/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/magnifier/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/magnifier/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/dither_transparency/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/dither_transparency/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/categories/%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/categories/%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/archives/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/posts/navigation_3d/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/posts/navigation_3d/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/search/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/search/</loc>
   </url><url>
-    <loc>//localhost:1313/zh/categories/%E7%9D%80%E8%89%B2%E5%99%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/GodotArchive/zh/categories/%E7%9D%80%E8%89%B2%E5%99%A8%E6%95%99%E7%A8%8B/</loc>
   </url>
 </urlset>

@@ -1,6 +1,7 @@
 baseURL: ""
 languageCode: en-us
 title: Godot资源库
+baseURL: https://merxon22.github.io/GodotArchive/
 
 params:
   description: 下载b站up主“码客二十二”的Godot项目素材或者成品
