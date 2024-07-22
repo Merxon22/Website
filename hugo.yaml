@@ -1,0 +1,49 @@
+baseURL: ""
+languageCode: en-us
+title: Godot资源库
+
+params:
+  description: 下载b站up主“码客二十二”的Godot项目素材或者成品
+  defaultTheme: light
+  disableThemeToggle: true
+  disableSpecial1stPost: true
+  ShowCodeCopyButtons: true
+
+  taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+
+  homeInfoParams:
+    Title: "Godot资源库"
+    Content: >
+      - b站up主[**“码客二十二”**](https://space.bilibili.com/204475293)的教程资源下载库
+
+      - 你可以在这里浏览所有教程并下载相关资源
+    
+  socialIcons:
+    - name: bilibili
+      title: 去看看我的b站！
+      url: "https://space.bilibili.com/204475293"
+
+
+# Multilingual
+defaultContentLanguageInSubdir: true
+defaultContentLanguage: zh
+
+languages:
+  zh:
+    languageName: 简体中文
+    weight: 1
+    menu:
+      main:
+        - name: 开发教程
+          url: categories/开发教程
+          weight: 1
+        - name: 着色器教程
+          url: categories/着色器教程
+          weight: 2
+        - name: 标签检索
+          url: tags/
+          weight: 3

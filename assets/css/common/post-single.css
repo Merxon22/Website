@@ -315,22 +315,22 @@
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
-    background: var(--code-bg);
-    border: 1px solid var(--border);
+    background: linear-gradient(to right, var(--custom-gray) 10px, white 10px); /* #ff6347 is the left side color, #007bff is the main color */
+    border: 2px solid var(--custom-gray);
 }
 
 .post-tags a {
     display: block;
-    padding: 0 14px;
-    color: var(--secondary);
+    font-weight: 700;
     font-size: 14px;
-    line-height: 34px;
-    background: var(--code-bg);
+    line-height: 18px;
+    padding: 4px 8px 4px 16px;
+    transition: transform 0.1s;
 }
 
-.post-tags a:hover,
-.paginav a:hover {
-    background: var(--border);
+.post-tags a:active,
+.paginav a:active {
+    transform: scale(0.96);
 }
 
 .share-buttons {

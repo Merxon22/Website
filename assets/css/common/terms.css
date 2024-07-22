@@ -1,3 +1,7 @@
+.term-container{
+
+}
+
 .terms-tags li {
     display: inline-block;
     margin: 10px;
@@ -6,13 +10,17 @@
 
 .terms-tags a {
     display: block;
-    padding: 3px 10px;
-    background: var(--tertiary);
+    background: linear-gradient(to right, #686874 15px, #ffffff 15px); /* #ff6347 is the left side color, #007bff is the main color */
     border-radius: 6px;
     transition: transform 0.1s;
+    min-width: 100px;
+    text-align: center;
+    font-weight: 700;
+    padding: 3px 10px 3px 20px;
+    border: #686874 2px solid;
+    font-size: 18px;
 }
 
 .terms-tags a:active {
-    background: var(--tertiary);
     transform: scale(0.96);
 }

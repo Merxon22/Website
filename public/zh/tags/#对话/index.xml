@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>#对话 on Godot资源库</title>
+    <link>//localhost:1313/zh/tags/%23%E5%AF%B9%E8%AF%9D/</link>
+    <description>Recent content in #对话 on Godot资源库</description>
+    <generator>Hugo -- 0.128.1</generator>
+    <language>zh</language>
+    <atom:link href="//localhost:1313/zh/tags/%23%E5%AF%B9%E8%AF%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建你的第一个对话系统</title>
+      <link>//localhost:1313/zh/posts/dialogue_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/dialogue_system/</guid>
+      <description>使用Resource和Tween类，在Godot引擎中创建对话资源并播放对话动画</description>
+    </item>
+  </channel>
+</rss>

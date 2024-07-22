@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>#SubViewport on Godot资源库</title>
+    <link>//localhost:1313/zh/tags/%23subviewport/</link>
+    <description>Recent content in #SubViewport on Godot资源库</description>
+    <generator>Hugo -- 0.128.1</generator>
+    <language>zh</language>
+    <atom:link href="//localhost:1313/zh/tags/%23subviewport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D模型怎样变成像素立绘？</title>
+      <link>//localhost:1313/zh/posts/3d_pixelize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/3d_pixelize/</guid>
+      <description>使用SubViewport和着色器，将3D模型渲染成2D像素动画</description>
+    </item>
+  </channel>
+</rss>

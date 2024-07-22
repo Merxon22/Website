@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>着色器教程 on Godot资源库</title>
+    <link>//localhost:1313/zh/categories/%E7%9D%80%E8%89%B2%E5%99%A8%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 着色器教程 on Godot资源库</description>
+    <generator>Hugo -- 0.128.1</generator>
+    <language>zh</language>
+    <atom:link href="//localhost:1313/zh/categories/%E7%9D%80%E8%89%B2%E5%99%A8%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D模型怎样变成像素立绘？</title>
+      <link>//localhost:1313/zh/posts/3d_pixelize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/3d_pixelize/</guid>
+      <description>使用SubViewport和着色器，将3D模型渲染成2D像素动画</description>
+    </item>
+    <item>
+      <title>Bling Bling，2D发光描边！</title>
+      <link>//localhost:1313/zh/posts/2d_glow_outline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/2d_glow_outline/</guid>
+      <description>使用着色器UV和HDR效果，制作一个发光的2D描边</description>
+    </item>
+    <item>
+      <title>不用编程的Visual Shader</title>
+      <link>//localhost:1313/zh/posts/visual_shader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/visual_shader/</guid>
+      <description>使用Godot的可视化着色器就不用编程啦</description>
+    </item>
+    <item>
+      <title>放大/缩小镜着色器</title>
+      <link>//localhost:1313/zh/posts/magnifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/magnifier/</guid>
+      <description>使用着色器制作一个跟随鼠标移动的放大/缩小镜</description>
+    </item>
+    <item>
+      <title>风格化的抖动溶解半透明效果</title>
+      <link>//localhost:1313/zh/posts/dither_transparency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/zh/posts/dither_transparency/</guid>
+      <description>使用抖动(Dither)纹理在Godot里实现不一样的半透明效果</description>
+    </item>
+  </channel>
+</rss>

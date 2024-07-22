@@ -19,6 +19,30 @@
       {{ .Description }}
     </div>
     {{- end }}
+    {{ if .Params.categories}}
+    <div style="margin-top: 20px; display: flex; align-items: center;">
+      <b>分类：</b>
+      {{- $catgories := .Language.Params.Taxonomies.categories | default "categories" }}
+      <ul class="post-tags">
+        {{- range ($.GetTerms $catgories) }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{ end }}
+    
+    {{ if .Params.tags}}
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <div style="margin-top: 10px; display: flex; align-items: center;">
+      <b>标签：</b>
+      <ul class="post-tags">
+        {{- range ($.GetTerms $tags) }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{end}}
+
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
@@ -43,12 +67,7 @@
   {{- end }}
 
   <footer class="post-footer">
-    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-    <ul class="post-tags">
-      {{- range ($.GetTerms $tags) }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
+
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}

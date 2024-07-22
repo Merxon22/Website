@@ -1,0 +1,5 @@
+{{ $width := .Get 1 | default "300px" }}
+
+<div style="display: flex; justify-content: center">
+    <img src="{{ .Get 0 }}" width={{ $width }}>
+</div>
