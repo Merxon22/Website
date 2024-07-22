@@ -21,6 +21,11 @@ cover:
 ![]({{< resource "3d_glow_outline/suzanne.png" >}})
 {{< button "下载Suzzane模型" "3d_glow_outline/suzanne.glb" >}}
 
+- #### 项目模板（下载后解压）
+![]({{< resource "/3d_glow_outline/template.gif" >}})
+{{< button "下载项目模板" "/3d_glow_outline/template.zip" >}}
+
+
 - #### 项目成品（下载后解压）
 ![]({{< resource "/3d_glow_outline/final.gif" >}})
 {{< button "下载项目成品" "/3d_glow_outline/final.zip" >}}
