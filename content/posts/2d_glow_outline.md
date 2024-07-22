@@ -24,10 +24,10 @@ cover:
 {{< centered_image "https://img.itch.zone/aW1nLzUwMTQxOTAuZ2lm/original/E5D4f1.gif" >}}
 
 - #### 项目模板（下载后解压）
-![](/2d_glow_outline/template.png)
-{{< button "下载项目模板" "/2d_glow_outline/template.zip" >}}
+![]({{< resource "2d_glow_outline/template.png" >}})
+{{< button "下载项目模板" "2d_glow_outline/template.zip" >}}
 
 - #### 项目成品（下载后解压）
-![](/2d_glow_outline/final.gif)
+![]({{< resource "/2d_glow_outline/final.gif" >}})
 {{< button "下载项目成品" "/2d_glow_outline/final.zip" >}}
 

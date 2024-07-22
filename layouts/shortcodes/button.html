@@ -17,7 +17,7 @@
   }
 </style>
 <div style="text-align: center;">
-  <a href="{{ .Get 1 }}" class="custom-button">
+  <a href="{{ .Site.BaseURL }}{{ .Get 1 }}" class="custom-button">
     > {{ .Get 0 }} <
   </a>
 </div>
