@@ -6,6 +6,7 @@
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
 <head>
+    <base href="{{ .Site.BaseURL }}">
     {{- partial "head.html" . }}
 </head>
 
