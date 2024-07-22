@@ -20,5 +20,5 @@ cover:
 ### 资源下载📥
 
 - #### 成品链接（下载后解压）
-![](/dither_transparency/final.gif)
+![]({{< resource "/dither_transparency/final.gif" >}})
 {{< button "下载成品项目" "/dither_transparency/final.zip" >}}

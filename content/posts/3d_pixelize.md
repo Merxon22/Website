@@ -22,10 +22,10 @@ cover:
 
 ### 资源下载📥
 - #### 项目模板（下载后解压）
-![项目模板](/3d_pixelize/template.png)
+![项目模板]({{< resource "/3d_pixelize/template.png" >}})
 {{< button "下载项目模板" "/3d_pixelize/template.zip" >}}
 
 - #### 项目成品（下载后解压）
-![项目成品](/3d_pixelize/final.gif)
+![项目成品]({{< resource "/3d_pixelize/final.gif" >}})
 {{< button "下载项目成品" "/3d_pixelize/final.zip" >}}
 

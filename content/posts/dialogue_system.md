@@ -25,6 +25,6 @@ cover:
 {{< centered_image "https://img.itch.zone/aW1hZ2UvMTExMDU4OS84MDAzNzAzLnBuZw==/347x500/fdMFPa.png">}}
 
 - #### 项目成品（下载后解压）
-![项目成品](/dialogue_system/final_zh.png)
+![项目成品]({{< resource "/dialogue_system/final_zh.png" >}})
 {{< button "下载项目成品" "/dialogue_system/final.zip" >}}
 

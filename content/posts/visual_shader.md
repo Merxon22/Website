@@ -21,7 +21,7 @@ cover:
 ### 资源下载📥
 
 - #### 噪声纹理（右键保存）：
-![](/visual_shader/noise.png)
+![]({{< resource "/visual_shader/noise.png" >}})
 
 - 噪声代码
 ``` GLSL {linenos=true}
@@ -62,5 +62,5 @@ float seamless_noise(vec2 uv, float s) {
 ```
 
 - #### 成品链接（下载后解压）
-![](/visual_shader/final.gif)
+![]({{< resource "/visual_shader/final.gif" >}})
 {{< button "下载成品项目" "/visual_shader/final.zip" >}}

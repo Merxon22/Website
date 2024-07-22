@@ -24,10 +24,10 @@ cover:
 ![Kings and Pigs](https://img.itch.zone/aW1nLzI1ODU2MTEuZ2lm/original/IQCAru.gif)
 
 - #### 放大镜框和放大镜片：
-| ![放大镜框](/magnifier/ring_display.png) | ![放大镜片](/magnifier/glass_display.png) |
+| ![放大镜框]({{< resource "/magnifier/ring_display.png" >}}) | ![放大镜片]({{< resource "/magnifier/glass_display.png" >}}) |
 | --- | --- |
 | {{< button "下载放大镜框" "/magnifier/Magnifier_ring.png" >}} | {{< button "下载放大镜片" "/magnifier/Magnifier_glass.png" >}} |
 
 - #### 成品链接（下载后解压）
-![成品](/magnifier/final.png)
+![成品]({{< resource "/magnifier/final.png" >}})
 {{< button "下载成品项目" "/magnifier/final.zip" >}}

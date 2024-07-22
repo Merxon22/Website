@@ -22,10 +22,10 @@ cover:
 
 ### 资源下载📥
 - #### 项目中用到的3D场景（下载后解压）
-![项目模板](/navigation_3d/template.png)
+![项目模板]({{< resource "/navigation_3d/template.png" >}})
 {{< button "下载项目模板" "/navigation_3d/template.zip" >}}
 
 - #### 项目成品（下载后解压）
-![项目成品](/navigation_3d/final.png)
+![项目成品]({{< resource "/navigation_3d/final.png" >}})
 {{< button "下载项目成品" "/navigation_3d/final.zip" >}}
 
